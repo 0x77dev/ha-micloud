@@ -1,0 +1,9 @@
+{
+    "cSpell.words": [
+        "Xiaomi",
+        "micloud",
+        "miio"
+    ],
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "editor.formatOnSave": true
+}
