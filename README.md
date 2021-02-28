@@ -1,5 +1,7 @@
 # ha-micloud
 
+[![CI](https://github.com/0x77dev/ha-micloud/actions/workflows/ci.yml/badge.svg?branch=dev)](https://github.com/0x77dev/ha-micloud/actions/workflows/ci.yml)
+
 Yet another miio repository
 
 Integrates Xiaomi Home Cloud Devices into Home Assistant
